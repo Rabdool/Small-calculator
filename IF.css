@@ -1,0 +1,61 @@
+body{
+    background: fixed;
+}
+.A{
+    
+}
+#c{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+#w{
+    background-color: pink;
+    border-radius: 50px;
+    width: 40px;
+    line-height: 25px;
+    font-size: large;
+}
+#x{
+    background-color: yellow;
+    border-radius: 50px;
+    width: 40px;
+    line-height: 25px;
+    font-size: large;
+}
+#y{
+    background-color: orange;
+    border-radius: 50px;
+    width: 40px;
+    line-height: 25px;
+    font-size: large;
+}
+#z{
+    background-color: black;
+    border-radius: 50px;
+    width: 40px;
+    line-height: 25px;
+    color: white;
+    font-size: large;
+}
+#one{
+    background-color: rgb(221, 78, 78);
+}
+#two{
+    background-color:   #189AB4;
+}
+
+#d{
+    width: 26%;
+    line-height: 20px;
+    font-size: large;
+    margin-top: 10%;
+    margin-left: 40%;
+
+}
+#a{
+    float: left;
+}
+
+#b{
+    float: right;
+}
